@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Competition on StackRef Whistle</title>
-    <link>https://whistle.stackref.com/tags/competition/</link>
-    <description>Recent content in Competition on StackRef Whistle</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 24 May 2023 17:12:28 -0400</lastBuildDate>
-    <atom:link href="https://whistle.stackref.com/tags/competition/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Embracing Feedback</title>
-      <link>https://whistle.stackref.com/post/embracing-feedback/</link>
-      <pubDate>Wed, 24 May 2023 17:12:28 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/embracing-feedback/</guid>
-      <description>&lt;h4 id=&#34;keep-ignoring-feedback-and-life-will-keep-teaching-you-the-same-lesson---james-clear&#34;&gt;&lt;em&gt;&amp;ldquo;Keep ignoring feedback and life will keep teaching you the same lesson.&amp;rdquo; - James Clear&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Hackathons &amp;ndash; innovation-led marathons of creativity, designed to stretch our skills, encourage collaboration, and foster a culture of disruption and agile thinking. However, they also come with an immense learning opportunity, nestled within the feedback we receive from our peers, mentors, and judges. If we continue to disregard this crucial element, we risk stagnating and missing out on the chance to improve.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Competition on StackRef Whistle</title>
+		<link>https://whistle.stackref.com/tags/competition/</link>
+		<description>Recent content in Competition on StackRef Whistle</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 24 May 2023 17:12:28 -0400</lastBuildDate>
+		
+			<atom:link href="https://whistle.stackref.com/tags/competition/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Embracing Feedback</title>
+				<link>https://whistle.stackref.com/post/embracing-feedback/</link>
+				<pubDate>Wed, 24 May 2023 17:12:28 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/embracing-feedback/</guid>
+				<description>&lt;h4 id=&#34;heading&#34;&gt;&lt;em&gt;&amp;ldquo;Keep ignoring feedback and life will keep teaching you the same lesson.&amp;rdquo; - James Clear&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Hackathons &amp;ndash; innovation-led marathons of creativity, designed to stretch our skills, encourage collaboration, and foster a culture of disruption and agile thinking. However, they also come with an immense learning opportunity, nestled within the feedback we receive from our peers, mentors, and judges. If we continue to disregard this crucial element, we risk stagnating and missing out on the chance to improve.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

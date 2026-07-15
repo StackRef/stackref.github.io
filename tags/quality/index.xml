@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Quality on StackRef Whistle</title>
-    <link>https://whistle.stackref.com/tags/quality/</link>
-    <description>Recent content in Quality on StackRef Whistle</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 13:33:13 -0500</lastBuildDate>
-    <atom:link href="https://whistle.stackref.com/tags/quality/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Room for Quality</title>
-      <link>https://whistle.stackref.com/post/room-for-quality/</link>
-      <pubDate>Thu, 05 Jan 2023 13:33:13 -0500</pubDate>
-      <guid>https://whistle.stackref.com/post/room-for-quality/</guid>
-      <description>&lt;h4 id=&#34;if-you-want-to-create-something-but-feel-it-has-already-been-done-1000-times-remember-there-is-always-room-for-quality---james-clear&#34;&gt;&lt;em&gt;&amp;ldquo;If you want to create something but feel it has already been done 1000 times, remember: There is always room for quality.&amp;rdquo; - James Clear&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;In today&amp;rsquo;s fast-paced world, it&amp;rsquo;s easy to feel like everything has already been done before. With so many people creating content, products, and services, it can be discouraging to think that there&amp;rsquo;s no room for your own unique contribution. However, as James Clear suggests, there is always room for quality.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Quality on StackRef Whistle</title>
+		<link>https://whistle.stackref.com/tags/quality/</link>
+		<description>Recent content in Quality on StackRef Whistle</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 05 Jan 2023 13:33:13 -0500</lastBuildDate>
+		
+			<atom:link href="https://whistle.stackref.com/tags/quality/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Room for Quality</title>
+				<link>https://whistle.stackref.com/post/room-for-quality/</link>
+				<pubDate>Thu, 05 Jan 2023 13:33:13 -0500</pubDate>
+				<guid>https://whistle.stackref.com/post/room-for-quality/</guid>
+				<description>&lt;h4 id=&#34;heading&#34;&gt;&lt;em&gt;&amp;ldquo;If you want to create something but feel it has already been done 1000 times, remember: There is always room for quality.&amp;rdquo; - James Clear&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;In today&amp;rsquo;s fast-paced world, it&amp;rsquo;s easy to feel like everything has already been done before. With so many people creating content, products, and services, it can be discouraging to think that there&amp;rsquo;s no room for your own unique contribution. However, as James Clear suggests, there is always room for quality.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

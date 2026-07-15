@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hackathons on StackRef Whistle</title>
-    <link>https://whistle.stackref.com/categories/hackathons/</link>
-    <description>Recent content in Hackathons on StackRef Whistle</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2023 19:33:37 -0400</lastBuildDate>
-    <atom:link href="https://whistle.stackref.com/categories/hackathons/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>In case you missed it: &#39;Security Testing During Ideation: A Hackathon Perspective&#39;</title>
-      <link>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</link>
-      <pubDate>Tue, 27 Jun 2023 19:33:37 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</guid>
-      <description>&lt;p&gt;In case you missed the presentation at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt;, here&amp;rsquo;s the recording that you can watch at your leisure!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Presenting &#39;Security Testing During Ideation: A Hackathon Perspective&#39; at DevSecCon24!</title>
-      <link>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</link>
-      <pubDate>Thu, 15 Jun 2023 16:26:43 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be presenting at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt; on &lt;strong&gt;June 27, 2023&lt;/strong&gt;, in a lighting talk titled &lt;strong&gt;&amp;ldquo;Security Testing During Ideation: A Hackathon Perspective!&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Big Ideas</title>
-      <link>https://whistle.stackref.com/post/big-ideas/</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/big-ideas/</guid>
-      <description>&lt;h4 id=&#34;every-once-in-a-while-a-new-technology-an-old-problem-and-a-big-idea-turn-into-an-innovation--dean-kamen&#34;&gt;&lt;em&gt;“Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.” — Dean Kamen&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;While the Segway didn&amp;rsquo;t change the world how Mr. Kamen had visualized it would, it was indeed a big idea.&lt;/p&gt;&#xA;&lt;p&gt;This quote from Dean Kamen, the inventor of the Segway, beautifully captures the essence of innovation. In today&amp;rsquo;s fast-paced world, businesses and organizations are constantly seeking ways to foster innovation, and one proven method is through the use of internal hackathons.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Internal Hackathons and Innovation</title>
-      <link>https://whistle.stackref.com/post/internal-hackathons-and-innovation/</link>
-      <pubDate>Tue, 07 Mar 2023 16:11:41 -0500</pubDate>
-      <guid>https://whistle.stackref.com/post/internal-hackathons-and-innovation/</guid>
-      <description>&lt;p&gt;Internal hackathons, also known as innovation sprints, have become increasingly popular in companies around the world. These events are designed to encourage employees to come up with creative solutions to business challenges, and to foster a culture of innovation within the organization. In this blog post, we will explore how internal hackathons can improve company innovation.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Hackathons on StackRef Whistle</title>
+		<link>https://whistle.stackref.com/categories/hackathons/</link>
+		<description>Recent content in Hackathons on StackRef Whistle</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Jun 2023 19:33:37 -0400</lastBuildDate>
+		
+			<atom:link href="https://whistle.stackref.com/categories/hackathons/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>In case you missed it: &#39;Security Testing During Ideation: A Hackathon Perspective&#39;</title>
+				<link>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</link>
+				<pubDate>Tue, 27 Jun 2023 19:33:37 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</guid>
+				<description>&lt;p&gt;In case you missed the presentation at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt;, here&amp;rsquo;s the recording that you can watch at your leisure!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Presenting &#39;Security Testing During Ideation: A Hackathon Perspective&#39; at DevSecCon24!</title>
+				<link>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</link>
+				<pubDate>Thu, 15 Jun 2023 16:26:43 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ll be presenting at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt; on &lt;strong&gt;June 27, 2023&lt;/strong&gt;, in a lighting talk titled &lt;strong&gt;&amp;ldquo;Security Testing During Ideation: A Hackathon Perspective!&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Big Ideas</title>
+				<link>https://whistle.stackref.com/post/big-ideas/</link>
+				<pubDate>Tue, 21 Mar 2023 00:00:00 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/big-ideas/</guid>
+				<description>&lt;h4 id=&#34;every-once-in-a-while-a-new-technology-an-old-problem-and-a-big-idea-turn-into-an-innovation--dean-kamen&#34;&gt;&lt;em&gt;“Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.” — Dean Kamen&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;While the Segway didn&amp;rsquo;t change the world how Mr. Kamen had visualized it would, it was indeed a big idea.&lt;/p&gt;&#xA;&lt;p&gt;This quote from Dean Kamen, the inventor of the Segway, beautifully captures the essence of innovation. In today&amp;rsquo;s fast-paced world, businesses and organizations are constantly seeking ways to foster innovation, and one proven method is through the use of internal hackathons.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Internal Hackathons and Innovation</title>
+				<link>https://whistle.stackref.com/post/internal-hackathons-and-innovation/</link>
+				<pubDate>Tue, 07 Mar 2023 16:11:41 -0500</pubDate>
+				<guid>https://whistle.stackref.com/post/internal-hackathons-and-innovation/</guid>
+				<description>&lt;p&gt;Internal hackathons, also known as innovation sprints, have become increasingly popular in companies around the world. These events are designed to encourage employees to come up with creative solutions to business challenges, and to foster a culture of innovation within the organization. In this blog post, we will explore how internal hackathons can improve company innovation.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

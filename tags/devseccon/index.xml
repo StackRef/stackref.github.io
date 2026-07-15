@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Devseccon on StackRef Whistle</title>
-    <link>https://whistle.stackref.com/tags/devseccon/</link>
-    <description>Recent content in Devseccon on StackRef Whistle</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2023 19:33:37 -0400</lastBuildDate>
-    <atom:link href="https://whistle.stackref.com/tags/devseccon/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>In case you missed it: &#39;Security Testing During Ideation: A Hackathon Perspective&#39;</title>
-      <link>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</link>
-      <pubDate>Tue, 27 Jun 2023 19:33:37 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</guid>
-      <description>&lt;p&gt;In case you missed the presentation at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt;, here&amp;rsquo;s the recording that you can watch at your leisure!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Presenting &#39;Security Testing During Ideation: A Hackathon Perspective&#39; at DevSecCon24!</title>
-      <link>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</link>
-      <pubDate>Thu, 15 Jun 2023 16:26:43 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be presenting at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt; on &lt;strong&gt;June 27, 2023&lt;/strong&gt;, in a lighting talk titled &lt;strong&gt;&amp;ldquo;Security Testing During Ideation: A Hackathon Perspective!&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Devseccon on StackRef Whistle</title>
+		<link>https://whistle.stackref.com/tags/devseccon/</link>
+		<description>Recent content in Devseccon on StackRef Whistle</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Jun 2023 19:33:37 -0400</lastBuildDate>
+		
+			<atom:link href="https://whistle.stackref.com/tags/devseccon/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>In case you missed it: &#39;Security Testing During Ideation: A Hackathon Perspective&#39;</title>
+				<link>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</link>
+				<pubDate>Tue, 27 Jun 2023 19:33:37 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</guid>
+				<description>&lt;p&gt;In case you missed the presentation at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt;, here&amp;rsquo;s the recording that you can watch at your leisure!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Presenting &#39;Security Testing During Ideation: A Hackathon Perspective&#39; at DevSecCon24!</title>
+				<link>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</link>
+				<pubDate>Thu, 15 Jun 2023 16:26:43 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ll be presenting at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt; on &lt;strong&gt;June 27, 2023&lt;/strong&gt;, in a lighting talk titled &lt;strong&gt;&amp;ldquo;Security Testing During Ideation: A Hackathon Perspective!&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cossell on StackRef Whistle</title>
-    <link>https://whistle.stackref.com/tags/cossell/</link>
-    <description>Recent content in Cossell on StackRef Whistle</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2023 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://whistle.stackref.com/tags/cossell/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Infracost and our own Cossell added to automated hackathon scoring</title>
-      <link>https://whistle.stackref.com/post/infracost-cossell/</link>
-      <pubDate>Sat, 06 May 2023 00:00:00 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/infracost-cossell/</guid>
-      <description>&lt;p&gt;Exciting news is coming out of StackRef HQ as we announce the addition of two new automated judging tools for hackathons:&#xA;&lt;a href=&#34;https://www.infracost.io/&#34;&gt;&lt;strong&gt;Infracost&lt;/strong&gt;&lt;/a&gt; and &lt;strong&gt;Cossell&lt;/strong&gt;!&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Cossell on StackRef Whistle</title>
+		<link>https://whistle.stackref.com/tags/cossell/</link>
+		<description>Recent content in Cossell on StackRef Whistle</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 06 May 2023 00:00:00 -0400</lastBuildDate>
+		
+			<atom:link href="https://whistle.stackref.com/tags/cossell/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Infracost and our own Cossell added to automated hackathon scoring</title>
+				<link>https://whistle.stackref.com/post/infracost-cossell/</link>
+				<pubDate>Sat, 06 May 2023 00:00:00 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/infracost-cossell/</guid>
+				<description>&lt;p&gt;Exciting news is coming out of StackRef HQ as we announce the addition of two new automated judging tools for hackathons:&#xA;&lt;a href=&#34;https://www.infracost.io/&#34;&gt;&lt;strong&gt;Infracost&lt;/strong&gt;&lt;/a&gt; and &lt;strong&gt;Cossell&lt;/strong&gt;!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Product Hunt on StackRef Whistle</title>
-    <link>https://whistle.stackref.com/tags/product-hunt/</link>
-    <description>Recent content in Product Hunt on StackRef Whistle</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2023 22:26:35 -0500</lastBuildDate>
-    <atom:link href="https://whistle.stackref.com/tags/product-hunt/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Follow and Vote for StackRef on Product Hunt!</title>
-      <link>https://whistle.stackref.com/post/2023-12-6-stackref-on-product-hunt/</link>
-      <pubDate>Tue, 05 Dec 2023 22:26:35 -0500</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-12-6-stackref-on-product-hunt/</guid>
-      <description>&lt;p&gt;Mark your calendars, folks!&lt;/p&gt;&#xA;&lt;p&gt;StackRef will be officially launching on &lt;a href=&#34;https://www.producthunt.com/products/stackref&#34;&gt;Product Hunt&lt;/a&gt; on &lt;strong&gt;Wednesday, December 13, 2023&lt;/strong&gt;!&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Product Hunt on StackRef Whistle</title>
+		<link>https://whistle.stackref.com/tags/product-hunt/</link>
+		<description>Recent content in Product Hunt on StackRef Whistle</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 05 Dec 2023 22:26:35 -0500</lastBuildDate>
+		
+			<atom:link href="https://whistle.stackref.com/tags/product-hunt/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Follow and Vote for StackRef on Product Hunt!</title>
+				<link>https://whistle.stackref.com/post/2023-12-6-stackref-on-product-hunt/</link>
+				<pubDate>Tue, 05 Dec 2023 22:26:35 -0500</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-12-6-stackref-on-product-hunt/</guid>
+				<description>&lt;p&gt;Mark your calendars, folks!&lt;/p&gt;&#xA;&lt;p&gt;StackRef will be officially launching on &lt;a href=&#34;https://www.producthunt.com/products/stackref&#34;&gt;Product Hunt&lt;/a&gt; on &lt;strong&gt;Wednesday, December 13, 2023&lt;/strong&gt;!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

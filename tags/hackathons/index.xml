@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hackathons on StackRef Whistle</title>
-    <link>https://whistle.stackref.com/tags/hackathons/</link>
-    <description>Recent content in Hackathons on StackRef Whistle</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2023 22:26:35 -0500</lastBuildDate>
-    <atom:link href="https://whistle.stackref.com/tags/hackathons/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Follow and Vote for StackRef on Product Hunt!</title>
-      <link>https://whistle.stackref.com/post/2023-12-6-stackref-on-product-hunt/</link>
-      <pubDate>Tue, 05 Dec 2023 22:26:35 -0500</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-12-6-stackref-on-product-hunt/</guid>
-      <description>&lt;p&gt;Mark your calendars, folks!&lt;/p&gt;&#xA;&lt;p&gt;StackRef will be officially launching on &lt;a href=&#34;https://www.producthunt.com/products/stackref&#34;&gt;Product Hunt&lt;/a&gt; on &lt;strong&gt;Wednesday, December 13, 2023&lt;/strong&gt;!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>You can now pay for StackRef with Stripe!</title>
-      <link>https://whistle.stackref.com/post/2023-10-24-pay-with-stripe/</link>
-      <pubDate>Tue, 24 Oct 2023 10:17:30 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-10-24-pay-with-stripe/</guid>
-      <description>&lt;p&gt;Good news, everyone!&lt;/p&gt;&#xA;&lt;p&gt;Previously, purchasing StackCash &amp;ndash; credits used to schedule events &amp;ndash; was only possible by directly contacting us, or via the &lt;a href=&#34;https://aws.amazon.com/marketplace/pp/prodview-eaoyh5cthzovo&#34;&gt;Amazon Marketplace&lt;/a&gt;. Well, no longer! StackCash is now directly purchasable &lt;a href=&#34;https://app.stackref.com/dashboard/marketplace&#34;&gt;within the application&lt;/a&gt;, once you have your free account created and are an organization&amp;rsquo;s owner or administrator.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Visit us on the Amazon Startup Showcase</title>
-      <link>https://whistle.stackref.com/post/2023-08-23-amazon-startup-showcase/</link>
-      <pubDate>Wed, 23 Aug 2023 12:40:47 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-08-23-amazon-startup-showcase/</guid>
-      <description>&lt;p&gt;Take a look at our profile on the &lt;a href=&#34;https://aws.amazon.com/startups/showcase/startup-details/0fc575f2-42ea-498c-b9b2-26f50e2f4d96&#34;&gt;Amazon Startup Showcase&lt;/a&gt;! If you have the means to do so, a thumb-up would be amazingly appreciated. Who knows &amp;ndash; we might be a featured startup there some day!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>StackRef Vendor Insights from Amazon</title>
-      <link>https://whistle.stackref.com/post/2023-08-11-amazon-vendor-insights/</link>
-      <pubDate>Fri, 11 Aug 2023 21:56:36 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-08-11-amazon-vendor-insights/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;re excited to unveil a significant enhancement to our Amazon Marketplace offering: &lt;a href=&#34;https://aws.amazon.com/marketplace/features/vendor-insights/&#34;&gt;Vendor Insights&lt;/a&gt;!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>In case you missed it: &#39;Security Testing During Ideation: A Hackathon Perspective&#39;</title>
-      <link>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</link>
-      <pubDate>Tue, 27 Jun 2023 19:33:37 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</guid>
-      <description>&lt;p&gt;In case you missed the presentation at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt;, here&amp;rsquo;s the recording that you can watch at your leisure!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>We&#39;re now in the Amazon Marketplace store. Happy birthday, StackRef!</title>
-      <link>https://whistle.stackref.com/post/2023-06-21-amazon-marketplace/</link>
-      <pubDate>Wed, 21 Jun 2023 07:48:15 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-06-21-amazon-marketplace/</guid>
-      <description>&lt;p&gt;Yesterday (June 20) marked a year since StackRef was officially incorporated. Less-officially, StackRef has been around since 2021.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coincidentally, it&amp;rsquo;s also the day StackRef officially went live in the &lt;a href=&#34;https://aws.amazon.com/marketplace/pp/prodview-eaoyh5cthzovo&#34;&gt;Amazon Marketplace&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Presenting &#39;Security Testing During Ideation: A Hackathon Perspective&#39; at DevSecCon24!</title>
-      <link>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</link>
-      <pubDate>Thu, 15 Jun 2023 16:26:43 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be presenting at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt; on &lt;strong&gt;June 27, 2023&lt;/strong&gt;, in a lighting talk titled &lt;strong&gt;&amp;ldquo;Security Testing During Ideation: A Hackathon Perspective!&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Infracost and our own Cossell added to automated hackathon scoring</title>
-      <link>https://whistle.stackref.com/post/infracost-cossell/</link>
-      <pubDate>Sat, 06 May 2023 00:00:00 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/infracost-cossell/</guid>
-      <description>&lt;p&gt;Exciting news is coming out of StackRef HQ as we announce the addition of two new automated judging tools for hackathons:&#xA;&lt;a href=&#34;https://www.infracost.io/&#34;&gt;&lt;strong&gt;Infracost&lt;/strong&gt;&lt;/a&gt; and &lt;strong&gt;Cossell&lt;/strong&gt;!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Big Ideas</title>
-      <link>https://whistle.stackref.com/post/big-ideas/</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 -0400</pubDate>
-      <guid>https://whistle.stackref.com/post/big-ideas/</guid>
-      <description>&lt;h4 id=&#34;every-once-in-a-while-a-new-technology-an-old-problem-and-a-big-idea-turn-into-an-innovation--dean-kamen&#34;&gt;&lt;em&gt;“Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.” — Dean Kamen&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;While the Segway didn&amp;rsquo;t change the world how Mr. Kamen had visualized it would, it was indeed a big idea.&lt;/p&gt;&#xA;&lt;p&gt;This quote from Dean Kamen, the inventor of the Segway, beautifully captures the essence of innovation. In today&amp;rsquo;s fast-paced world, businesses and organizations are constantly seeking ways to foster innovation, and one proven method is through the use of internal hackathons.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Internal Hackathons and Innovation</title>
-      <link>https://whistle.stackref.com/post/internal-hackathons-and-innovation/</link>
-      <pubDate>Tue, 07 Mar 2023 16:11:41 -0500</pubDate>
-      <guid>https://whistle.stackref.com/post/internal-hackathons-and-innovation/</guid>
-      <description>&lt;p&gt;Internal hackathons, also known as innovation sprints, have become increasingly popular in companies around the world. These events are designed to encourage employees to come up with creative solutions to business challenges, and to foster a culture of innovation within the organization. In this blog post, we will explore how internal hackathons can improve company innovation.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Hackathons on StackRef Whistle</title>
+		<link>https://whistle.stackref.com/tags/hackathons/</link>
+		<description>Recent content in Hackathons on StackRef Whistle</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 05 Dec 2023 22:26:35 -0500</lastBuildDate>
+		
+			<atom:link href="https://whistle.stackref.com/tags/hackathons/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Follow and Vote for StackRef on Product Hunt!</title>
+				<link>https://whistle.stackref.com/post/2023-12-6-stackref-on-product-hunt/</link>
+				<pubDate>Tue, 05 Dec 2023 22:26:35 -0500</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-12-6-stackref-on-product-hunt/</guid>
+				<description>&lt;p&gt;Mark your calendars, folks!&lt;/p&gt;&#xA;&lt;p&gt;StackRef will be officially launching on &lt;a href=&#34;https://www.producthunt.com/products/stackref&#34;&gt;Product Hunt&lt;/a&gt; on &lt;strong&gt;Wednesday, December 13, 2023&lt;/strong&gt;!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>You can now pay for StackRef with Stripe!</title>
+				<link>https://whistle.stackref.com/post/2023-10-24-pay-with-stripe/</link>
+				<pubDate>Tue, 24 Oct 2023 10:17:30 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-10-24-pay-with-stripe/</guid>
+				<description>&lt;p&gt;Good news, everyone!&lt;/p&gt;&#xA;&lt;p&gt;Previously, purchasing StackCash &amp;ndash; credits used to schedule events &amp;ndash; was only possible by directly contacting us, or via the &lt;a href=&#34;https://aws.amazon.com/marketplace/pp/prodview-eaoyh5cthzovo&#34;&gt;Amazon Marketplace&lt;/a&gt;. Well, no longer! StackCash is now directly purchasable &lt;a href=&#34;https://app.stackref.com/dashboard/marketplace&#34;&gt;within the application&lt;/a&gt;, once you have your free account created and are an organization&amp;rsquo;s owner or administrator.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Visit us on the Amazon Startup Showcase</title>
+				<link>https://whistle.stackref.com/post/2023-08-23-amazon-startup-showcase/</link>
+				<pubDate>Wed, 23 Aug 2023 12:40:47 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-08-23-amazon-startup-showcase/</guid>
+				<description>&lt;p&gt;Take a look at our profile on the &lt;a href=&#34;https://aws.amazon.com/startups/showcase/startup-details/0fc575f2-42ea-498c-b9b2-26f50e2f4d96&#34;&gt;Amazon Startup Showcase&lt;/a&gt;! If you have the means to do so, a thumb-up would be amazingly appreciated. Who knows &amp;ndash; we might be a featured startup there some day!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>StackRef Vendor Insights from Amazon</title>
+				<link>https://whistle.stackref.com/post/2023-08-11-amazon-vendor-insights/</link>
+				<pubDate>Fri, 11 Aug 2023 21:56:36 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-08-11-amazon-vendor-insights/</guid>
+				<description>&lt;p&gt;We&amp;rsquo;re excited to unveil a significant enhancement to our Amazon Marketplace offering: &lt;a href=&#34;https://aws.amazon.com/marketplace/features/vendor-insights/&#34;&gt;Vendor Insights&lt;/a&gt;!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>In case you missed it: &#39;Security Testing During Ideation: A Hackathon Perspective&#39;</title>
+				<link>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</link>
+				<pubDate>Tue, 27 Jun 2023 19:33:37 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-06-27-devseccon24-video/</guid>
+				<description>&lt;p&gt;In case you missed the presentation at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt;, here&amp;rsquo;s the recording that you can watch at your leisure!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>We&#39;re now in the Amazon Marketplace store. Happy birthday, StackRef!</title>
+				<link>https://whistle.stackref.com/post/2023-06-21-amazon-marketplace/</link>
+				<pubDate>Wed, 21 Jun 2023 07:48:15 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-06-21-amazon-marketplace/</guid>
+				<description>&lt;p&gt;Yesterday (June 20) marked a year since StackRef was officially incorporated. Less-officially, StackRef has been around since 2021.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coincidentally, it&amp;rsquo;s also the day StackRef officially went live in the &lt;a href=&#34;https://aws.amazon.com/marketplace/pp/prodview-eaoyh5cthzovo&#34;&gt;Amazon Marketplace&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Presenting &#39;Security Testing During Ideation: A Hackathon Perspective&#39; at DevSecCon24!</title>
+				<link>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</link>
+				<pubDate>Thu, 15 Jun 2023 16:26:43 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2023-06-15-devseccon-24/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ll be presenting at this year&amp;rsquo;s &lt;a href=&#34;https://www.devseccon.com/events/devseccon24&#34;&gt;Snyk DevSecCon24&lt;/a&gt; on &lt;strong&gt;June 27, 2023&lt;/strong&gt;, in a lighting talk titled &lt;strong&gt;&amp;ldquo;Security Testing During Ideation: A Hackathon Perspective!&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Infracost and our own Cossell added to automated hackathon scoring</title>
+				<link>https://whistle.stackref.com/post/infracost-cossell/</link>
+				<pubDate>Sat, 06 May 2023 00:00:00 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/infracost-cossell/</guid>
+				<description>&lt;p&gt;Exciting news is coming out of StackRef HQ as we announce the addition of two new automated judging tools for hackathons:&#xA;&lt;a href=&#34;https://www.infracost.io/&#34;&gt;&lt;strong&gt;Infracost&lt;/strong&gt;&lt;/a&gt; and &lt;strong&gt;Cossell&lt;/strong&gt;!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Big Ideas</title>
+				<link>https://whistle.stackref.com/post/big-ideas/</link>
+				<pubDate>Tue, 21 Mar 2023 00:00:00 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/big-ideas/</guid>
+				<description>&lt;h4 id=&#34;every-once-in-a-while-a-new-technology-an-old-problem-and-a-big-idea-turn-into-an-innovation--dean-kamen&#34;&gt;&lt;em&gt;“Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.” — Dean Kamen&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;p&gt;While the Segway didn&amp;rsquo;t change the world how Mr. Kamen had visualized it would, it was indeed a big idea.&lt;/p&gt;&#xA;&lt;p&gt;This quote from Dean Kamen, the inventor of the Segway, beautifully captures the essence of innovation. In today&amp;rsquo;s fast-paced world, businesses and organizations are constantly seeking ways to foster innovation, and one proven method is through the use of internal hackathons.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Internal Hackathons and Innovation</title>
+				<link>https://whistle.stackref.com/post/internal-hackathons-and-innovation/</link>
+				<pubDate>Tue, 07 Mar 2023 16:11:41 -0500</pubDate>
+				<guid>https://whistle.stackref.com/post/internal-hackathons-and-innovation/</guid>
+				<description>&lt;p&gt;Internal hackathons, also known as innovation sprints, have become increasingly popular in companies around the world. These events are designed to encourage employees to come up with creative solutions to business challenges, and to foster a culture of innovation within the organization. In this blog post, we will explore how internal hackathons can improve company innovation.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
