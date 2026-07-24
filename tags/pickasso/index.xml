@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pickasso on StackRef Whistle</title>
+		<link>https://whistle.stackref.com/tags/pickasso/</link>
+		<description>Recent content in Pickasso on StackRef Whistle</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 24 Jul 2026 08:30:00 -0400</lastBuildDate>
+		
+			<atom:link href="https://whistle.stackref.com/tags/pickasso/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A New Look, an Open Source Hackathon Manager, and a Game Called Pickasso</title>
+				<link>https://whistle.stackref.com/post/2026-07-24-new-logo-hm-open-source-pickasso/</link>
+				<pubDate>Fri, 24 Jul 2026 08:30:00 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2026-07-24-new-logo-hm-open-source-pickasso/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s been a while since we&amp;rsquo;ve blown the whistle around here, and it turns out we&amp;rsquo;ve been saving up. Today we have three announcements: a fresh new StackRef logo, the open sourcing of the StackRef Hackathon Manager, and a brand-new iOS game called Pickasso that&amp;rsquo;s on its way to the App Store.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

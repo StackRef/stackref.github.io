@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 24 Oct 2023 10:17:30 -0400</lastBuildDate>
+			<lastBuildDate>Fri, 24 Jul 2026 08:30:00 -0400</lastBuildDate>
 		
 			<atom:link href="https://whistle.stackref.com/categories/product/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A New Look, an Open Source Hackathon Manager, and a Game Called Pickasso</title>
+				<link>https://whistle.stackref.com/post/2026-07-24-new-logo-hm-open-source-pickasso/</link>
+				<pubDate>Fri, 24 Jul 2026 08:30:00 -0400</pubDate>
+				<guid>https://whistle.stackref.com/post/2026-07-24-new-logo-hm-open-source-pickasso/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s been a while since we&amp;rsquo;ve blown the whistle around here, and it turns out we&amp;rsquo;ve been saving up. Today we have three announcements: a fresh new StackRef logo, the open sourcing of the StackRef Hackathon Manager, and a brand-new iOS game called Pickasso that&amp;rsquo;s on its way to the App Store.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>You can now pay for StackRef with Stripe!</title>
 				<link>https://whistle.stackref.com/post/2023-10-24-pay-with-stripe/</link>
